@@ -4,10 +4,11 @@
 [![rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/cemplon11/makefun-funniest-out-of-office/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 [![reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/cemplon11/makefun-funniest-out-of-office/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 
-The funniest out-of-office line I could write in one breath: out of the
-office is just corporate for "gone," and my emails are being ignored in
-the order they were received. The program is pure-stdlib Python and writes
-that one line, deterministically, to `/output/entry.txt`.
+My one-line out-of-office reply for the make.fun bounty: the inbox is a
+queue, and the reader is told exactly where they stand in it. The joke
+lands on the queue number — 47th, and counting. `main.py` is pure-stdlib
+Python; it validates the line (one line, 140 characters or fewer) and
+writes it deterministically to `/output/entry.txt`.
 
 ## Run it
 
